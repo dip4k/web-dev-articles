@@ -21,3 +21,4 @@
 5.  Design Paradigms , Patterns , Methodolgy.
 6.  Data-structure and Algorithms.
 7.  Build tools and Web Utils.
+    * [Utils](https://github.com/dip4k/web-dev-articles/blob/master/utils/utils.md)
