@@ -4,7 +4,7 @@
 
 ## What Languages/Technologies are included in this
 
-. Web Basics.
+1.  Web Basics.
 
     * [Html](https://github.com/dip4k/web-dev-articles/blob/master/web-basics/html.md)
     * [CSS](https://github.com/dip4k/web-dev-articles/blob/master/web-basics/css.md)
