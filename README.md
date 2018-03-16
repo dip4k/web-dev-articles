@@ -4,7 +4,7 @@
 
 ## What Languages/Technologies are included in this
 
-1.  Web Basics.
+. Web Basics.
 
     * [Html](https://github.com/dip4k/web-dev-articles/blob/master/web-basics/html.md)
     * [CSS](https://github.com/dip4k/web-dev-articles/blob/master/web-basics/css.md)
@@ -22,5 +22,9 @@
 6.  Data-structure and Algorithms.
 7.  Build tools and Web Utils.
     * [Utils](https://github.com/dip4k/web-dev-articles/blob/master/utils/utils.md)
-8.  Web Guides/Experiences - sometime it\'s great to read others story ^\_^
+8.  Web Guides/Experiences - sometime it\'s great to read others story.
+
     * [Stories](https://github.com/dip4k/web-dev-articles/blob/master/web-stories/stories.md)
+
+9.  Typescript
+    * [Typescript](https://github.com/dip4k/web-dev-articles/blob/master/typescript/typescript.md)
